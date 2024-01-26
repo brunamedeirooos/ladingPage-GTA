@@ -1,0 +1,14 @@
+* {
+  margin: 0; /* espaçamento externo nos elementos */
+  padding: 0; /* espaçamento interno do elemento  - distancia entre o conteudo e a borda do elemento*/
+  box-sizing: border-box; /* trabalhar com largura e altura dos elementos mais facil */
+}
+
+ul {
+  list-style: none; /* tirando o estilo da lista */
+}
+
+a {
+  text-decoration: none; /* tirar a decoração dos links */
+  color: inherit;
+}
